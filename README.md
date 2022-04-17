@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-[![Website status](https://img.shields.io/website-up-down-green-red/https/mspronesti.github.io.svg?label=Website%20status)](https://mspronesti.github.io)&nbsp;
+[![Website status](https://img.shields.io/website-up-down-green-red/https/mspronesti.github.io.svg?label=Website%20status)](https://chengb-2.github.io/personal-website/)&nbsp;
 [![made-with-react](https://img.shields.io/badge/Made%20with-React-orange.svg)](http://commonmark.org)
 
 ## 🛠 Installation and Setup Instructions
@@ -12,7 +12,6 @@
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
-
 
 ## Acknoledgments
 
