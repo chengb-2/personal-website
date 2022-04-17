@@ -3,7 +3,7 @@ html {
     to bottom right,
     rgba(0, 0, 0, 0.9),
     rgba(96, 108, 133, 0.9)
-  )
+  );
 
   --image-gradient: linear-gradient(
     to bottom right,
@@ -11,7 +11,7 @@ html {
     rgba(96, 108, 133, 0.9)
   );
 
-  --imp-text-color: #ebb10d
+  --imp-text-color: #ebb10d;
 }
 
 .purple {
@@ -745,6 +745,7 @@ button:focus {
   background-color: #a24dd386 !important;
   border-color: #a24dd386 !important;
 }
+
 .fork-btn-inner::after {
   display: none !important;
 }
