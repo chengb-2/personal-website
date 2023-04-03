@@ -17,7 +17,7 @@ function AboutCard() {
             <br />
             I enjoyed the process of building an idea from scratch and I am
             passionate about writing code and solving complex problems. I have
-            experience as a full stack web app developer, and I enjoy working
+            experience as a Java Backend developer, and I enjoy working
             with all layers of the stack and enjoy building out user friendly,
             efficient websites.
             <br />
@@ -26,13 +26,13 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Travelling
-            </li>
-            <li className="about-activity">
               <ImPointRight /> Cooking
             </li>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Travelling
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Video Games
             </li>
           </ul>
 

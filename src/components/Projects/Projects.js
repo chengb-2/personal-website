@@ -4,7 +4,8 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
 import covid_sim from "../../Assets/Projects/covid_sim.jpg";
-import crwn_clothing from "../../Assets/Projects/crwn_clothing.png";
+import quizapp from "../../Assets/Projects/quizapp.png";
+import superdupermart from "../../Assets/Projects/crwn_clothing.png";
 import panorama_stitching from "../../Assets/Projects/panorama_stitching.png";
 import toxic_language from "../../Assets/Projects/toxic_language.png";
 import tsp from "../../Assets/Projects/tsp.png";
@@ -27,6 +28,28 @@ function Projects() {
             paddingBottom: "10px",
           }}
         >
+        
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={quizapp}
+              isBlog={false}
+              title="Quiz App"
+              description="Designed and developed a robust online quiz platform adhering to the microservice architecture using Eureka and Spring Cloud. Implemented both user and admin systems for seamless user experience and efficient management of quizzes."
+              link="https://github.com/chengb-2/QuizApp"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={superdupermart}
+              isBlog={false}
+              title="SuperDuperMart Web App"
+              description="Implemented an e-commerce website based on JavaScript, React.js, and HTML. Styled the front-end using Bootstrap CSS, implemented user registration & authentication using Firebase, handled payments using Stripe API."
+              link="https://github.com/chengb-2/crwn-clothing"
+            />
+          </Col>
+                  
+          
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={toxic_language}
@@ -67,15 +90,6 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={crwn_clothing}
-              isBlog={false}
-              title="Crown Clothing Web App"
-              description="Implemented an e-commerce website based on JavaScript, React.js, and HTML. Styled the front-end using Bootstrap CSS, implemented user registration & authentication using Firebase, handled payments using Stripe API."
-              link="https://github.com/chengb-2/crwn-clothing"
-            />
-          </Col>
         </Row>
       </Container>
     </Container>
