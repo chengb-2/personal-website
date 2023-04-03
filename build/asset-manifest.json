@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.167a0d89.css",
+    "main.js": "/personal-website/static/js/main.8b960937.js",
+    "static/js/415.4d6acbeb.chunk.js": "/personal-website/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/personal-website/static/js/787.1ed0c42c.chunk.js",
+    "static/media/tsp.png": "/personal-website/static/media/tsp.83cb6dfec122d48c476d.png",
+    "static/media/crwn_clothing.png": "/personal-website/static/media/crwn_clothing.d5fb16b4c7c6e0608abc.png",
+    "static/media/panorama_stitching.png": "/personal-website/static/media/panorama_stitching.e9ad255730319d902a85.png",
+    "static/media/home.png": "/personal-website/static/media/home.0cbe4519b6edc3671e17.png",
+    "static/media/logo-removebg-preview.svg": "/personal-website/static/media/logo-removebg-preview.3dde203f03fcd59481d8a17881aacca2.svg",
+    "static/media/covid_sim.jpg": "/personal-website/static/media/covid_sim.593b0e81b2743af12844.jpg",
+    "static/media/about.png": "/personal-website/static/media/about.309cfecdc1402140acdc.png",
+    "static/media/quizapp.png": "/personal-website/static/media/quizapp.4998bdc4807180a7c258.png",
+    "static/media/Resume.pdf": "/personal-website/static/media/Resume.b9f077f45824d546a2c1.pdf",
+    "static/media/toxic_language.png": "/personal-website/static/media/toxic_language.bcfa062bfed5c4299ce1.png",
+    "static/media/avatar.svg": "/personal-website/static/media/avatar.2045ac598b822ad618c4bef714ffdf2c.svg",
+    "static/media/pre.svg": "/personal-website/static/media/pre.e82cdf4bb0bb6081d0f0.svg",
+    "index.html": "/personal-website/index.html",
+    "main.167a0d89.css.map": "/personal-website/static/css/main.167a0d89.css.map",
+    "main.8b960937.js.map": "/personal-website/static/js/main.8b960937.js.map",
+    "415.4d6acbeb.chunk.js.map": "/personal-website/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/personal-website/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.167a0d89.css",
+    "static/js/main.8b960937.js"
+  ]
+}
